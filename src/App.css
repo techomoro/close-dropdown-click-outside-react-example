@@ -1,0 +1,8 @@
+.profile-link {
+  cursor: pointer;
+}
+.profile-menu {
+  display: block;
+  right: 0;
+  left: auto;
+}
